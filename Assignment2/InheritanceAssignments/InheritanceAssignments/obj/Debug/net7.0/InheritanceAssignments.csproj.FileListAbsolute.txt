@@ -1,0 +1,15 @@
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\bin\Debug\net7.0\InheritanceAssignments.exe
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\bin\Debug\net7.0\InheritanceAssignments.deps.json
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\bin\Debug\net7.0\InheritanceAssignments.runtimeconfig.json
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\bin\Debug\net7.0\InheritanceAssignments.dll
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\bin\Debug\net7.0\InheritanceAssignments.pdb
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\obj\Debug\net7.0\InheritanceAssignments.csproj.AssemblyReference.cache
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\obj\Debug\net7.0\InheritanceAssignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\obj\Debug\net7.0\InheritanceAssignments.AssemblyInfoInputs.cache
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\obj\Debug\net7.0\InheritanceAssignments.AssemblyInfo.cs
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\obj\Debug\net7.0\InheritanceAssignments.csproj.CoreCompileInputs.cache
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\obj\Debug\net7.0\InheritanceAssignments.dll
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\obj\Debug\net7.0\refint\InheritanceAssignments.dll
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\obj\Debug\net7.0\InheritanceAssignments.pdb
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\obj\Debug\net7.0\InheritanceAssignments.genruntimeconfig.cache
+D:\Aish.NET\InheritanceAssignments\InheritanceAssignments\obj\Debug\net7.0\ref\InheritanceAssignments.dll

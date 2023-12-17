@@ -1,0 +1,15 @@
+E:\b2-dn\day2Assignments\day2Assignments\bin\Debug\net7.0\day2Assignments.exe
+E:\b2-dn\day2Assignments\day2Assignments\bin\Debug\net7.0\day2Assignments.deps.json
+E:\b2-dn\day2Assignments\day2Assignments\bin\Debug\net7.0\day2Assignments.runtimeconfig.json
+E:\b2-dn\day2Assignments\day2Assignments\bin\Debug\net7.0\day2Assignments.dll
+E:\b2-dn\day2Assignments\day2Assignments\bin\Debug\net7.0\day2Assignments.pdb
+E:\b2-dn\day2Assignments\day2Assignments\obj\Debug\net7.0\day2Assignments.csproj.AssemblyReference.cache
+E:\b2-dn\day2Assignments\day2Assignments\obj\Debug\net7.0\day2Assignments.GeneratedMSBuildEditorConfig.editorconfig
+E:\b2-dn\day2Assignments\day2Assignments\obj\Debug\net7.0\day2Assignments.AssemblyInfoInputs.cache
+E:\b2-dn\day2Assignments\day2Assignments\obj\Debug\net7.0\day2Assignments.AssemblyInfo.cs
+E:\b2-dn\day2Assignments\day2Assignments\obj\Debug\net7.0\day2Assignments.csproj.CoreCompileInputs.cache
+E:\b2-dn\day2Assignments\day2Assignments\obj\Debug\net7.0\day2Assignments.dll
+E:\b2-dn\day2Assignments\day2Assignments\obj\Debug\net7.0\refint\day2Assignments.dll
+E:\b2-dn\day2Assignments\day2Assignments\obj\Debug\net7.0\day2Assignments.pdb
+E:\b2-dn\day2Assignments\day2Assignments\obj\Debug\net7.0\day2Assignments.genruntimeconfig.cache
+E:\b2-dn\day2Assignments\day2Assignments\obj\Debug\net7.0\ref\day2Assignments.dll
